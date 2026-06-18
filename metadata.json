@@ -1,0 +1,6 @@
+{
+  "name": "Placify",
+  "description": "A comprehensive, modern preparation and tracking companion for engineering students to boost placement readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
